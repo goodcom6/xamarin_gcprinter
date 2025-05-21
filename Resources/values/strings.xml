@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GcPrintX</string>
+    <string name="action_settings">Settings</string>
+	<string name="btn_button">Print String</string>
+	<string name="btn_bmp">Print Picture</string>
+	<dimen name="activity_vertical_margin">16dp</dimen>
+	<dimen name="activity_horizontal_margin">16dp</dimen>
+</resources>
